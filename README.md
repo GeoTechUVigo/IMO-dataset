@@ -21,7 +21,12 @@ The code runs in Python. The required libraries can be installed using the file 
 
 - Open cv
 - Scikit image
+- Scikit learn
+- Matplotlib
+- Pandas
+- Numpy
 - Tensorflow
+- PIL
 
 ## License 
 
