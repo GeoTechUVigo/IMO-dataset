@@ -17,7 +17,7 @@ The dataset created with this repository can be found in [Zenodo](https://zenodo
 
  Martinez-Movilla, A. (2024) «Dataset of high resolution images of Intertidal MacrOalgae (IMO Dataset)». Zenodo. doi: 10.5281/zenodo.14185867.
 ## Requirements
-The code runs in Python. The required libraries can be installed using the file 'requirements.txt'. The main libraries used are:
+The code runs in Python 3.9. The required libraries can be installed using the file 'requirements.txt'. The main libraries used are:
 
 - Open cv
 - Scikit image
