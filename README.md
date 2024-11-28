@@ -36,13 +36,6 @@ The code runs in Python 3.9. The required libraries can be installed using the f
 This work was supported by the Galicia Marine Science programme, which is part of Complementary Science Plans for Marine Science of Ministerio de Ciencia e Innovación included in the Recovery, Transformation and Resilience Plan (PRTR-C17.I1), funded through Xunta de Galicia with NextGenerationEU and the European Maritime Fisheries and Aquaculture Funds.
 
 ## License 
-
-Automated instance and semantic segmentation of point clouds of large metallic truss bridges.
-
-Copyright (C) 2024 GeoTECH Group geotech@uvigo.gal
-
-Copyright (C) 2024 Andrea Martínez-Movilla andrea.martinez.movilla@uvigo.gal
-
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
