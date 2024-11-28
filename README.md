@@ -1,6 +1,6 @@
 # Creation of dataset of intertidal macroalgae (IMO-dataset)
 
-Created by [Andrea Martínez Movilla](https://orcid.org/0000-0002-6114-9074) from [GeoTech group](https://geotech.webs.uvigo.es/en/), [Cintex](https://cintecx.uvigo.es/gl/), [UVigo](https://www.uvigo.gal/). 
+Created by [Andrea Martínez Movilla](https://orcid.org/0000-0002-6114-9074), [Juan Luis Rodriguez Somoza](https://orcid.org/0000-0003-4031-762X and [Joaquín Martínez Sánchez](https://orcid.org/0000-0003-0320-4191) from [GeoTech group](https://geotech.webs.uvigo.es/en/), [Cintex](https://cintecx.uvigo.es/gl/), [UVigo](https://www.uvigo.gal/). 
 
 ## Overview
 This repository contains the code used in the article 'Dataset of high resolution images of Intertidal Macroalgae'. 
@@ -36,6 +36,10 @@ The code runs in Python 3.9. The required libraries can be installed using the f
 This work was supported by the Galicia Marine Science programme, which is part of Complementary Science Plans for Marine Science of Ministerio de Ciencia e Innovación included in the Recovery, Transformation and Resilience Plan (PRTR-C17.I1), funded through Xunta de Galicia with NextGenerationEU and the European Maritime Fisheries and Aquaculture Funds.
 
 ## License 
+Copyright (C) 2024 GeoTECH Group geotech@uvigo.gal
+
+Copyright (C) 2024 Andrea Martínez Movilla andrea.martinez.movilla@uvigo.gal
+
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
