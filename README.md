@@ -1,4 +1,5 @@
 # Creation of dataset of intertidal macroalgae (IMO-dataset)
+
 Created by [Andrea Martínez Movilla](https://orcid.org/0000-0002-6114-9074) from [GeoTech group](https://geotech.webs.uvigo.es/en/), [Cintex](https://cintecx.uvigo.es/gl/), [UVigo](https://www.uvigo.gal/). 
 
 ## Overview
@@ -13,10 +14,12 @@ This script needs as input variables the orthoimage and the manual labels as tif
 The second script (**CNN_with_labels_example**) uses that dataset to train a convolutional neural network. It needs the path of the folders containing the training and test data. 
 
 ## Data
+
 The dataset created with this repository can be found in [Zenodo](https://zenodo.org/records/14185867). If you use it, please cite it as: 
 
  Martinez-Movilla, A. (2024) «Dataset of high resolution images of Intertidal MacrOalgae (IMO Dataset)». Zenodo. doi: 10.5281/zenodo.14185867.
 ## Requirements
+
 The code runs in Python 3.9. The required libraries can be installed using the file 'requirements.txt'. The main libraries used are:
 
 - Open cv
@@ -28,6 +31,10 @@ The code runs in Python 3.9. The required libraries can be installed using the f
 - Tensorflow
 - PIL
 
+## Aknowledgements 
+
+This work was supported by the Galicia Marine Science programme, which is part of Complementary Science Plans for Marine Science of Ministerio de Ciencia e Innovación included in the Recovery, Transformation and Resilience Plan (PRTR-C17.I1), funded through Xunta de Galicia with NextGenerationEU and the European Maritime Fisheries and Aquaculture Funds.
+
 ## License 
 
 Automated instance and semantic segmentation of point clouds of large metallic truss bridges.
@@ -35,7 +42,6 @@ Automated instance and semantic segmentation of point clouds of large metallic t
 Copyright (C) 2024 GeoTECH Group geotech@uvigo.gal
 
 Copyright (C) 2024 Andrea Martínez-Movilla andrea.martinez.movilla@uvigo.gal
-
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
