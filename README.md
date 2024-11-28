@@ -10,7 +10,7 @@ The first script creates a dataset of png images for macroalgae classification. 
 
 This script needs as input variables the orthoimage and the manual labels as tif files, the path of the output folder and the common filename for the images created. 
 
-The second script uses that dataset to train a convolutional neural network. It needs the path of the folders containing the training and test data. 
+The second script (**CNN_with_labels_example**) uses that dataset to train a convolutional neural network. It needs the path of the folders containing the training and test data. 
 
 ## Data
 The dataset created with this repository can be found in [Zenodo](https://zenodo.org/records/14185867). If you use it, please cite it as: 
