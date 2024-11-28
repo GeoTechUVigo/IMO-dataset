@@ -1,6 +1,6 @@
 # Creation of dataset of intertidal macroalgae (IMO-dataset)
 
-Created by [Andrea Martínez Movilla](https://orcid.org/0000-0002-6114-9074), [Juan Luis Rodriguez Somoza](https://orcid.org/0000-0003-4031-762X and [Joaquín Martínez Sánchez](https://orcid.org/0000-0003-0320-4191) from [GeoTech group](https://geotech.webs.uvigo.es/en/), [Cintex](https://cintecx.uvigo.es/gl/), [UVigo](https://www.uvigo.gal/). 
+Created by [Andrea Martínez Movilla](https://orcid.org/0000-0002-6114-9074), [Juan Luis Rodriguez Somoza](https://orcid.org/0000-0003-4031-762X) and [Joaquín Martínez Sánchez](https://orcid.org/0000-0003-0320-4191) from [GeoTech group](https://geotech.webs.uvigo.es/en/), [Cintex](https://cintecx.uvigo.es/gl/), [UVigo](https://www.uvigo.gal/). 
 
 ## Overview
 This repository contains the code used in the article 'Dataset of high resolution images of Intertidal Macroalgae'. 
