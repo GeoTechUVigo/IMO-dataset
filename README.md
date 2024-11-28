@@ -6,7 +6,7 @@ This repository contains the code used in the article 'Dataset of high resolutio
 
 It consists of two scripts:  
 
-The first script creates a dataset of png images for macroalgae classification. It separates an orthoimage into individual manual labels and saves them as squared images by adding a bounding box of zeros arround them. Each of the images is named by a common filename, the time stamp and the class it represents. 
+The first script (**from_orthoimage_to_labels**) creates a dataset of png images for macroalgae classification. It separates an orthoimage into individual manual labels and saves them as squared images by adding a bounding box of zeros arround them. Each of the images is named by a common filename, the time stamp and the class it represents. 
 
 This script needs as input variables the orthoimage and the manual labels as tif files, the path of the output folder and the common filename for the images created. 
 
